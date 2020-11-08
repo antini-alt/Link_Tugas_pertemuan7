@@ -19,3 +19,8 @@ Berikut Link Repository untuk Tugas Bahasa pemrograman =>
  
  3. Untuk tugas pertemuan 7 pada halaman Modul 3 bisa dilihat pada link berikut :
  [(klik_disini!)](https://github.com/antini-alt/labpy03) 
+
+<br>
+
+
+################# ****Thank you**** #################
